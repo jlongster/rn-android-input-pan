@@ -47,7 +47,7 @@ function TestScreen() {
             margin: 10
           }}
         ></View>
-      <TextInput defaultValue="TextInput: press me" style={{ borderWidth: 1, borderColor: 'black', margin: 5 }} />
+        <TextInput defaultValue="TextInput: press me" style={{ borderWidth: 1, borderColor: 'black', margin: 5 }} />
 
         <View
           style={{
