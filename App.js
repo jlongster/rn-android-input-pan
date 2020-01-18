@@ -19,15 +19,6 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 
 function TestScreen() {
-  let inputRef = useRef();
-  let [focused, setFocused] = useState();
-
-  function press() {
-    inputRef.current.focus();
-    // setFocused(true);
-    // setTimeout(() => setFocused(false), 5000);
-  }
-
   return (
     <View style={{ flex: 1, backgroundColor: '#f0f0f0' }}>
       <View style={{ backgroundColor: '#c53030', height: 55 }}>
