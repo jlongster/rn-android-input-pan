@@ -11,4 +11,4 @@ Since the TextInput is in a ScrollView, it should simply scroll to show the inpu
 This doesn't involve React Native's `KeyboardAvoidingView`, but eventually I will use that to help resize the height of certain views. But first I need to control the panning of the app.
 
 
-![](http://jlongster.com/s/upload/f395eb8a-7e1d-4760-bfe4-81466fd5aaed.gif)
+![](http://jlongster.com/s/upload/97b8527d-323d-4658-a7bf-323fdf02c258.gif)
