@@ -1,5 +1,5 @@
 
-Run this with `npx react-native run-android` and observe the following behavior:
+Run this with `npx react-native run-android` and observe the following behavior (ignore the bad colors):
 
 * Scroll the view up and down and notice that the "header" doesn't move
 * Tap the text input, the whole app including the header pans up
